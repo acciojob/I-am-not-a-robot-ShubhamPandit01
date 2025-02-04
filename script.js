@@ -1,4 +1,3 @@
-//your code here
 let main = document.querySelector("main");
 let classNamesArray = ["img1", "img2", "img3", "img4", "img5"]
 
